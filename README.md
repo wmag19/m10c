@@ -4,6 +4,8 @@
 
 A Hugo minimalistic theme for bloggers
 
+Idea for forking as a submodule from https://www.andrewhoog.com/post/git-submodule-for-hugo-themes/
+
 Main features:
 
 - Fully responsive
